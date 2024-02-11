@@ -3,4 +3,4 @@ clean:
 	mkdir build
 
 run:
-	./bin/main.c
+	./bin/Executable

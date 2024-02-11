@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = -I/home/tyler/C_Projects/include
 
-C_FLAGS = -Wall
+C_FLAGS = 
 

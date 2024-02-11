@@ -1,4 +1,4 @@
-# Install script for directory: /home/tyler/C_Projects/Openssl Password Email
+# Install script for directory: /home/tyler/C_Projects
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/tyler/C_Projects/Openssl Password Email/build/src/cmake_install.cmake")
+  include("/home/tyler/C_Projects/build/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/tyler/C_Projects/Openssl Password Email/build/include/cmake_install.cmake")
+  include("/home/tyler/C_Projects/build/include/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tyler/C_Projects/Openssl Password Email/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tyler/C_Projects/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

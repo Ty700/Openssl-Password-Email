@@ -1,4 +1,4 @@
-# Install script for directory: /home/tyler/C_Projects/Openssl Password Email/src
+# Install script for directory: /home/tyler/C_Projects/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
